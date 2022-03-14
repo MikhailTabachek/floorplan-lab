@@ -2,9 +2,9 @@
 
 function Bedroom (props) {
   return(
-    <h3>
+    <h2>
     Bedroom {props.bedNum}
-  </h3>
+  </h2>
   )
 
 }

@@ -1,7 +1,7 @@
 function LivingRoom() {
   return(
     <>
-    <h3>Living Room</h3>
+    <h2>Living Room</h2>
   </>
   )
 
